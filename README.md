@@ -21,5 +21,5 @@
 </p>
 
 <p align="left" style="font-family: 'Courier New', monospace">
-  Find out my old projects on the github account (lost it by 2fac issues) <a href="https://github.com/coding-agent">@coding-agent</a>.
+  Find out my old projects on the github account <a href="https://github.com/coding-agent">@coding-agent</a> (lost it by 2fac issues).
 </p>
